@@ -10,9 +10,11 @@
 
 ### Learning Objectives
 
-- Git Remote Add && Git Pull
 - What is CSS?
 - Connecting Style To Structure
+  - In-Line
+  - Internal
+  - External
 - How the Internet/Browser Works
 - What Can We do with CSS?
   - Color
